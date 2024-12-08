@@ -15,7 +15,7 @@ My goal is to become a full-stack developer with expertise in Django, React, and
 ### Skills and Tools:
 🖥️ Languages and Technologies:  
 ![html](https://github.com/user-attachments/assets/eca5f7d9-6668-4767-b04c-6160d83ffc65)
-<img src="html.png" alt="HTML" width="40" height="40"/>
+<img src="html.png" alt="HTML" width="10" height="10"/>
 ![css-logo](https://github.com/user-attachments/assets/d89c312d-d4c8-4dc7-9f5a-bfee94775100)
 <img src="D:\iconos\HTML5_logo_and_wordmark.svg.png" alt="CSS" width="40" height="40"/> 
 ![Js](https://github.com/user-attachments/assets/9aa06f3e-f00f-44fb-9a78-173b4bcb3abf)
