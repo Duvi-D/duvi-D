@@ -19,8 +19,6 @@ Hi, I'm Duvan Mendoza 🌟<br>I'm currently a master's student in Software Engin
 ## 🛠️ Tools: 
 Visual Studio Code, Jupyter Notebook, PyCharm, Git, GitHub
 
----
-[![](https://visitcount.itsvg.in/api?id=Duvi - D&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
