@@ -15,10 +15,10 @@ My goal is to become a full-stack developer with expertise in Django, React, and
 ### Skills and Tools:
 🖥️ Languages and Technologies:  
 <img src="URL_HTML_LOGO" alt="HTML" width="40" height="40"/>  
-<img src="URL_CSS_LOGO" alt="CSS" width="40" height="40"/>  
-<img src="URL_JS_LOGO" alt="JavaScript" width="40" height="40"/>  
-<img src="URL_PYTHON_LOGO" alt="Python" width="40" height="40"/>  
-<img src="URL_MYSQL_LOGO" alt="MySQL" width="40" height="40"/>  
+<img src="D:\iconos\HTML5_logo_and_wordmark.svg.png" alt="CSS" width="40" height="40"/>  
+<img src="D:\iconos\JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>  
+<img src="D:\iconos\python-logo-only.png" alt="Python" width="40" height="40"/>  
+<img src="D:\iconos\logo-mysql-170x115.png" alt="MySQL" width="40" height="40"/>  
 
 🛠️ Tools:  
 <img src="[URL_VSC_LOGO](https://i.pinimg.com/736x/fb/85/c9/fb85c996bc7b9a7280502cc7fab9e681.jpg)" alt="Visual Studio Code" width="40" height="40"/>  
