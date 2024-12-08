@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-Hi, I'm Duvan Mendoza 🌟<br>I'm currently a master's student in Software Engineering and Big Data at the National Research Nuclear University MEPhI.<br><br>I have a strong passion for full-stack web development👨‍💻 and artificial intelligence🤖. I'm currently honing my skills in ⚛React.js, 🟢Django, and 🟠AWS, while diving deeper into the exciting world of ⚙machine learning, focusing on tools like Scikit-Learn, Keras, and TensorFlow.<br><br>🎯 Career Objective:<br>My goal is to become a full-stack developer with expertise in Django, React, and Machine Learning—similar to a machine learning engineer. I firmly believe that anyone can learn to program with perseverance and dedication.
+Hi, I'm Duvan Mendoza 🌟<br>I'm currently a master's student in Software Engineering and Big Data at the National Research Nuclear University MEPhI.<br><br>I have a strong passion for full-stack web development👨‍💻 and artificial intelligence🤖. I'm currently honing my skills in ⚛React.js, 🟢Django, and 🟠AWS, while diving deeper into the exciting world of ⚙machine learning, focusing on tools like Scikit-Learn, Keras, and TensorFlow.<br><br>🎯 Career Objective:<br>“My goal is to become a full-stack developer specializing in Django and React, with the ability to integrate machine learning into my web applications. I firmly believe that anyone can learn programming with perseverance and dedication.
 
 
 
